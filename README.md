@@ -1,3 +1,3 @@
 # 7days
 
-<img width="" height="" src="./png/강아지.jpg"></img>
+<img width="300" height="300" src="./png/강아지.jpg"></img>

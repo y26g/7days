@@ -4,4 +4,4 @@
 
 
 ## 4주차 과제
-<img width="300" height="300" src="./png/4주차 과제.PNG"></img>
+<img width="" height="" src="./png/4주차 과제.PNG"></img>
